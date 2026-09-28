@@ -1,0 +1,6 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+
+# No build output lives here — this repo only carries releases
+*.zip
